@@ -1,1 +1,3 @@
-# 2020_DevOps_CICDwithJenkinsAnsibleDockerKubernetes_HelloWorld
+# maven-project
+
+Simple Maven Project
